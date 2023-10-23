@@ -10,5 +10,5 @@
 Linki do demo moich dotychczasowych mini-projektów
 
 1. Memory Game
-<img width="502" alt="image" src="https://github.com/MilenaJasiolek/MilenaJasiolek/assets/125980721/3fbc50ee-632c-469d-823c-55271e5390d9">
+<img width="302" alt="image" src="https://github.com/MilenaJasiolek/MilenaJasiolek/assets/125980721/3fbc50ee-632c-469d-823c-55271e5390d9">
 https://milenajasiolek.github.io/memory/
