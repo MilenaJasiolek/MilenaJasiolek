@@ -15,5 +15,5 @@ demo: https://milenajasiolek.github.io/memory/
 
 2. Driving Game
 demo: https://github.com/MilenaJasiolek/DrivingGame
-![image](https://github.com/MilenaJasiolek/MilenaJasiolek/assets/125980721/56da196a-f3da-45ac-94a7-8049714cfda3)
+<img width="302" alt="image" src="https://github.com/MilenaJasiolek/MilenaJasiolek/assets/125980721/56da196a-f3da-45ac-94a7-8049714cfda3">
 
