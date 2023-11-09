@@ -17,3 +17,7 @@ demo: https://milenajasiolek.github.io/memory/
 demo: https://github.com/MilenaJasiolek/DrivingGame
 <img width="302" alt="image" src="https://github.com/MilenaJasiolek/MilenaJasiolek/assets/125980721/56da196a-f3da-45ac-94a7-8049714cfda3">
 
+3. Rock Paper Scissors
+demo: https://github.com/MilenaJasiolek/kamien_papier_nozyce
+<img width="876" alt="kamien_papier_nozyce" src="https://github.com/MilenaJasiolek/MilenaJasiolek/assets/125980721/b56902ae-7468-47c5-8a65-586021612318">
+
