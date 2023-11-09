@@ -11,13 +11,13 @@ Linki do demo moich dotychczasowych mini-projektów
 
 1. Memory Game
 demo: https://milenajasiolek.github.io/memory/
-<img width="876" alt="image" src="https://github.com/MilenaJasiolek/MilenaJasiolek/assets/125980721/3fbc50ee-632c-469d-823c-55271e5390d9">
+<img width="486" alt="image" src="https://github.com/MilenaJasiolek/MilenaJasiolek/assets/125980721/3fbc50ee-632c-469d-823c-55271e5390d9">
 
 2. Driving Game
 demo: https://github.com/MilenaJasiolek/DrivingGame
-<img width="876" alt="image" src="https://github.com/MilenaJasiolek/MilenaJasiolek/assets/125980721/56da196a-f3da-45ac-94a7-8049714cfda3">
+<img width="486" alt="image" src="https://github.com/MilenaJasiolek/MilenaJasiolek/assets/125980721/56da196a-f3da-45ac-94a7-8049714cfda3">
 
 3. Rock Paper Scissors
 demo: https://github.com/MilenaJasiolek/kamien_papier_nozyce
-<img width="876" alt="kamien_papier_nozyce" src="https://github.com/MilenaJasiolek/MilenaJasiolek/assets/125980721/b56902ae-7468-47c5-8a65-586021612318">
+<img width="486" alt="kamien_papier_nozyce" src="https://github.com/MilenaJasiolek/MilenaJasiolek/assets/125980721/b56902ae-7468-47c5-8a65-586021612318">
 
