@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi there 👋 I'm Milena<br>🔭 I’m currently working in Epinote and IF PAN in Cracow and also studying Neurobiology<br>🌱 I have Bachelor's degree in Biotechnology<br>🌱 I’m currently improve my programming skills with different courses, include CSS, HTML, JavaScript, Node.js, React<br>📫 Ask me about anything you want reach me via: milenajas@gmail.com<br>😄 During my free time, I love to travel, immerse myself in various books, and spend time with friends playing board games.
-
+Look at my Protfolio website! https://milenajasiolek.github.io/portfolio.github.io/
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009928565405) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lenitsen06/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milena-jasio%C5%82ek-923706169/) 
